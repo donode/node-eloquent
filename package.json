@@ -1,0 +1,28 @@
+{
+  "name": "node-eloquent",
+  "version": "0.0.1",
+  "description": "grammar for SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donode/node-eloquent.git"
+  },
+  "keywords": [
+    "SQL",
+    "node",
+    "mysql",
+    "mariadb"
+  ],
+  "author": "Madhusudhana Rao Dollu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donode/node-eloquent/issues"
+  },
+  "homepage": "https://github.com/donode/node-eloquent#readme",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  }
+}
